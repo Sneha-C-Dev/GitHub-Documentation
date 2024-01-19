@@ -1,3 +1,5 @@
+## Industrial practices of using Git. 
+
 Each company has its own best practices for git, and they can be numerous. Each team has specific standards, but we think these basic “best practices” are globally accepted. Not having set criteria in place prior to beginning a project is a recipe for disaster. If you are new to Git, it may take some time to get used to these practices. Eventually, these specifications will make perfect sense. As time goes on, you will adopt other procedures that better suit your workflow.
 
 ___1. Branching is Imperative!___
