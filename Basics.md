@@ -12,7 +12,7 @@ It is used for:
 
 ### 2. Clone:
 Cloning is the process of creating a copy of a remote repository on your local machine.
-... This allows you to work on the code locally and contribute changes back to the remote repository.
+___ This allows you to work on the code locally and contribute changes back to the remote repository.
 
 ### 3. Commit:
 ... A commit is a snapshot of your code at a specific point in time. It represents a set of changes you have made to your files.
@@ -22,3 +22,14 @@ Cloning is the process of creating a copy of a remote repository on your local m
 ### 4. Merge:
 ... Merging combines changes from different branches into a single branch. It is often used to integrate feature branches back into the main branch.
 
+### 5. Pull Request (PR):
+In Git repositories hosted on platforms like GitHub or GitLab, a pull request is a way to propose changes to the codebase. It allows others to review and discuss the changes before they are merged.
+
+### 6. Push:
+Pushing is the process of uploading your local changes to a remote repository. This makes your changes accessible to others and updates the remote repository.
+
+### 7.Fetch:
+Fetching is the process of downloading changes from a remote repository to your local machine. It doesn't automatically merge the changes into your working branch; it only updates your local view of the remote repository.
+
+###8. Pull:
+Pulling is a combination of fetching and merging. It downloads changes from a remote repository and automatically merges them into your working branch.
