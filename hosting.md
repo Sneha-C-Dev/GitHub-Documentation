@@ -16,6 +16,7 @@ __GitLab__ also offers more features than Github out of the box. Some of these f
 * Code quality and security scans
 * Group-level access controls
 * Wiki and documentation pages
+  
 __Bitbucket__ is a web-based version control repository hosting service owned by Atlassian. It provides teams with a platform to collaborate on code, manage repositories, and track changes made to code over time. Bitbucket supports both Git and Mercurial version control systems.
 * Code Management
 * Pull Requests
