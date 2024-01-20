@@ -1,4 +1,4 @@
-##Resources
+## Resources
 
 * https://www.atlassian.com/git/glossary#commands
 * https://www.linkedin.com/pulse/github-vs-bitbucket-gitlab-nadir-riyani/
